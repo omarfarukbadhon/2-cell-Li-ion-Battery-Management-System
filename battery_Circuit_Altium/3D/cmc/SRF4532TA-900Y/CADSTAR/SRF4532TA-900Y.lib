@@ -1,0 +1,16 @@
+.SRF4532TA-900Y :1 ;350 nH 2 Line Common Mode Choke Surface Mount 90 Ohms 4A DCR 50mOhm
+SRF4532TA900Y
+*STM L
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN SRF4532TA-900Y
+~!Mouser Part Number (652-SRF4532TA-900Y)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRF4532TA-900Y?qs=jRuttqqUwMSnFOlNFDkBhg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRF4532TA-900Y)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRF4532TA.pdf)
+~!Height (3mm)
+~!3D_Model (SRF4532TA-900Y)
+SRF4532TA-900Y
+1.1!U 2.1!U 3.1!U 4.1!U 

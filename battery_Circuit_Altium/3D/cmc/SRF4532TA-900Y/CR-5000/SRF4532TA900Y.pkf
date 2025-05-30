@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SRF4532TA900Y"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SRF4532TA900Y")
+        (spec "default")
+    )
+)

@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+F:\Fiver\marcellsimon\Battery for camera\battery_Circuit\Project Outputs for battery_Circuit\Pick Place for Battery Circuit.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/10/24
+Time:       10:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"BAT1","BH-18650-A1BJ021","TopLayer","2_CELL_BATTERY_CASE","50.8254","44.3738","90",""
+"U2","BX-HA2.54-2PWT","BottomLayer","SMD_JST_2P","63.8980","34.5495","270",""
+"U1","S-8252AAG-M6T1U","BottomLayer","BMS","54.4290","46.5810","180",""
+"R5","2K","BottomLayer","2K_RES","51.8922","44.0690","90",""
+"R4","470R","BottomLayer","470R_RES","52.1716","50.4708","90",""
+"R3","470R","BottomLayer","470R_RES","53.7210","50.4708","90",""
+"R2","330R","BottomLayer","330R_RES","44.9326","29.4386","270",""
+"R1","10R","BottomLayer","10R_RES","44.9580","49.6570","90",""
+"Q2","FS8205A","BottomLayer","2_N_MOS","54.4830","42.0624","270",""
+"Q1","AO3401A","BottomLayer","P_MOS","43.8150","54.2290","270",""
+"M1","EZJP0V270EA","BottomLayer","VARISTOR","47.6768","53.5940","180",""
+"LED1","XL-1608SURC-06","BottomLayer","LED","47.7388","28.4954","0",""
+"L1","CMF4532F-900-2P-Tms","BottomLayer","CMC_FILTER","47.7520","40.8940","90",""
+"F1","C05228-000","BottomLayer","FUSE_2","48.6410","51.5620","180",""
+"D2","SDD32C24L01","BottomLayer","ESD_DIODE","47.8790","55.4990","180",""
+"D1","BZT52B6V8","BottomLayer","ZENER_DIODE","42.6720","49.5300","270",""
+"C6","100nF","BottomLayer","100NF_CAP","48.3870","48.8950","0",""
+"C5","100nF","BottomLayer","100NF_CAP","57.7088","49.2760","90",""
+"C4","100nF","BottomLayer","100NF_CAP","47.8140","30.4800","0",""
+"C3","10uF","BottomLayer","10UF_CAP","47.7520","36.0680","0",""
+"C2","47uF","BottomLayer","47UF_CAP","47.7520","33.0200","0",""
+"C1","47uF","BottomLayer","47UF_CAP","43.4340","45.2120","180",""

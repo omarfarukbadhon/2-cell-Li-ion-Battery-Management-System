@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Cell_1_N Pin=J1-1
+Removed Pin From Net: NetName=Cell_2_P Pin=J1-2
+Removed Pin From Net: NetName=Cell_2_NB Pin=J2-1
+Removed Pin From Net: NetName=Cell_2_NB Pin=J2-2
+Removed Member From Class: ClassName=Protection circuit Member=J1
+Removed Member From Class: ClassName=Protection circuit Member=J2

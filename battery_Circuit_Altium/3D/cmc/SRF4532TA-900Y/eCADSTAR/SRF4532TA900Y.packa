@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRF4532TA-900Y"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-03-03:25:52)
+    (mountForm default
+        (footprintRef "SRF4532TA900Y")
+        (spec "System")
+    )
+)

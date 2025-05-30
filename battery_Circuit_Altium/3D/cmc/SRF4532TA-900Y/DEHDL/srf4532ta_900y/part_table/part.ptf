@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRF4532TA_900Y'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRF4532TA-900Y" (!) = "", "SRF4532TA900Y", "Other", "652-SRF4532TA-900Y", "https://www.mouser.co.uk/ProductDetail/Bourns/SRF4532TA-900Y?qs=jRuttqqUwMSnFOlNFDkBhg%3D%3D", "350 nH 2 Line Common Mode Choke Surface Mount 90 Ohms 4A DCR 50mOhm", "https://www.bourns.com/docs/Product-Datasheets/SRF4532TA.pdf", "3 mm"
+END_PART
+
+END.

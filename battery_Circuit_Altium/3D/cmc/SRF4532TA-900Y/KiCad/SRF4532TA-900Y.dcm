@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRF4532TA-900Y
+D 350 nH 2 Line Common Mode Choke Surface Mount 90 Ohms 4A DCR 50mOhm
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRF4532TA.pdf
+$ENDCMP
+#
+#End Doc Library

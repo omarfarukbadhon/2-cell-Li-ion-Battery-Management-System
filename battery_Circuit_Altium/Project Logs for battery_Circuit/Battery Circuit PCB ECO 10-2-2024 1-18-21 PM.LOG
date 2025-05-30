@@ -1,0 +1,52 @@
+Added Component: Designator=U2(4P FH SMD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20231229/6268F0CB0A5C868446EF560AB6378120.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P ??:2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yxcon(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=2.54mm(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C20071191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Added Component: Designator=U5(4P FH SMD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20231229/6268F0CB0A5C868446EF560AB6378120.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P ??:2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yxcon(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=2.54mm(???)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C20071191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "F136-1104S3CMUB2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Cell_1_N Pin=U2-1
+Added Pin To Net: NetName=Cell_1_P Pin=U2-2
+Added Pin To Net: NetName=Cell_2_N Pin=U2-3
+Added Pin To Net: NetName=Cell_2_P Pin=U2-4
+Added Pin To Net: NetName=Cell_1_N Pin=U5-1
+Added Pin To Net: NetName=Cell_1_P Pin=U5-2
+Added Pin To Net: NetName=Cell_2_N Pin=U5-3
+Added Pin To Net: NetName=Cell_2_P Pin=U5-4
+Added Member To Class: ClassName=Protection circuit Member=Component U2 F136-1104S3CMUB2
+Added Member To Class: ClassName=Protection circuit Member=Component U5 F136-1104S3CMUB2

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Cell_1_N Pin=U2-1
+Removed Pin From Net: NetName=Cell_1_P Pin=U2-2
+Removed Pin From Net: NetName=Cell_1_N Pin=U2-3
+Removed Pin From Net: NetName=Cell_2_N Pin=U2-4
+Added Component: Designator=BAT1(2 Cell Battery Case)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Battery Type"; Value = "CR18650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Battery box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20240112/147D77B47FAFC966051AFF7CD950677D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BH-18650-A1BJ021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??? ????:CR18650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MYOUNG(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BH-18650-A1BJ021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C20606804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BH-18650-A1BJ021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Cell_1_N Pin=BAT1-1
+Added Pin To Net: NetName=Cell_1_P Pin=BAT1-2
+Added Pin To Net: NetName=Cell_1_N Pin=BAT1-3
+Added Pin To Net: NetName=Cell_2_N Pin=BAT1-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=BAT+ Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Member To Class: ClassName=Protection circuit Member=Component BAT1 BH-18650-A1BJ021

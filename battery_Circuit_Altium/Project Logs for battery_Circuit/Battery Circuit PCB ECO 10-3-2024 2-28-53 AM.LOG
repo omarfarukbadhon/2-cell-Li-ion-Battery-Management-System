@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Cell_1_N Pin=BAT1-1
+Removed Pin From Net: NetName=Cell_1_P Pin=BAT1-2
+Removed Pin From Net: NetName=Cell_1_N Pin=BAT1-3
+Removed Pin From Net: NetName=Cell_2_N Pin=BAT1-4
+Removed Member From Class: ClassName=Protection circuit Member=BAT1
+Added Component: Designator=U2(SMD JST 2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20231017/0F5BE3E474C97FE56F69CCCD4551F1BC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BX-HA2.54-2PWT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P ??:2.54mm ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bossie(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BX-HA2.54-2PWT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=2.54mm,??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C18077806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BX-HA2.54-2PWT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Cell_1_N Pin=U2-1
+Added Pin To Net: NetName=Cell_1_P Pin=U2-2
+Added Pin To Net: NetName=Cell_1_N Pin=U2-3
+Added Pin To Net: NetName=Cell_2_N Pin=U2-4
+Added Member To Class: ClassName=Protection circuit Member=Component U2 BX-HA2.54-2PWT
